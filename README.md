@@ -6,6 +6,7 @@
 - Use `img` tag attributes
 - Create images
 
+
 ## Introduction
 
 Images are absolutely critical to making appealing and engaging websites. Can
